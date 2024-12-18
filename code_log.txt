@@ -1,0 +1,22 @@
+2024-Dec-17-22:25:35 : Prueba de progreso - Inicio de prueba
+2024-Dec-17-22:25:35 : Prueba de progreso - Fin de prueba
+2024-Dec-17-22:25:42 : Transformación de datos completada - Nuevas columnas agregadas
+2024-Dec-17-22:25:45 : Datos cargados correctamente en el archivo CSV.
+2024-Dec-17-22:25:50 : Datos cargados correctamente en la base de datos SQLite3.
+2024-Dec-17-22:25:54 : Ejecutando consulta: SELECT * FROM Largest_banks
+2024-Dec-17-22:25:54 : Ejecutando consulta: SELECT AVG(MC_GBP_Billion) FROM Largest_banks
+2024-Dec-17-22:25:54 : Ejecutando consulta: SELECT Name FROM Largest_banks LIMIT 5
+2024-Dec-17-22:25:56 : Preliminaries complete. Initiating ETL process
+2024-Dec-17-22:25:57 : Data extraction complete. Initiating Transformation process
+2024-Dec-17-22:25:58 : Transformación de datos completada - Nuevas columnas agregadas
+2024-Dec-17-22:25:58 : Data transformation complete. Initiating loading process
+2024-Dec-17-22:25:58 : Datos cargados correctamente en el archivo CSV.
+2024-Dec-17-22:25:58 : Data saved to CSV file
+2024-Dec-17-22:25:58 : SQL Connection initiated.
+2024-Dec-17-22:25:58 : Datos cargados correctamente en la base de datos SQLite3.
+2024-Dec-17-22:25:58 : Data loaded to Database as table. Running the query
+2024-Dec-17-22:25:58 : Ejecutando consulta: SELECT * FROM Largest_banks
+2024-Dec-17-22:25:58 : Ejecutando consulta: SELECT AVG(MC_USD_Billion) FROM Largest_banks
+2024-Dec-17-22:25:58 : Ejecutando consulta: SELECT Name FROM Largest_banks LIMIT 5
+2024-Dec-17-22:25:58 : Process Complete.
+2024-Dec-17-22:25:58 : SQL Connection closed.
